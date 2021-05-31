@@ -1,0 +1,8 @@
+/node_modules
+*.pyc
+__pycache__
+env/
+app.db
+fbapp/test/*.db
+geckodriver.log
+.cache
